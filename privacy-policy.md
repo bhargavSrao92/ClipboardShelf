@@ -1,8 +1,6 @@
 # Privacy Policy for ClipboardShelf
 
-**Effective Date:** April 28, 2026  
-
-ClipboardShelf (“the App”) is designed to help users manage and organize clipboard content securely and efficiently. Your privacy is important to us.
+Clipoza (“the App”) is designed to help users manage and organize clipboard content securely and efficiently. Your privacy is important to us.
 
 ## 1. Information We Collect
 
@@ -69,4 +67,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns about this Privacy Policy, you can contact us at:
 
-📧 your-email@example.com
+📧 bhargav2014@gmail.com
